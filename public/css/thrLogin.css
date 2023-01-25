@@ -1,0 +1,13 @@
+.therapist-login form{
+    width: min(500px,90vw);
+}
+.therapist-login .form-container{
+    border: 1px solid var(--primary-color);
+    border-radius: 10px;
+}
+.therapist-login p{
+    text-align: center;
+    margin-inline:auto ;
+    font-size: 14px;
+    width: 60%;
+}
